@@ -277,14 +277,15 @@
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/files/) ![Freeware][Freeware Icon]
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. ![Freeware][Freeware Icon]
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services. ![Freeware][Freeware Icon]
-- [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
+- [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/ci/master/tree/) ![Freeware][Freeware Icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
+- [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under macOS 10.9+ in read-write mode.
 - [Noizio](http://noiz.io/) - Ambient sound equalizer for relaxation or productivity.
@@ -295,21 +296,21 @@
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
-- [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
-- [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
+- [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware][Freeware Icon]
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+- [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Prevent accidental Cmd-Q. [![Open-Source Software][OSS Icon]](https://github.com/dteoh/SlowQuitApps) ![Freeware][Freeware Icon]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - Makes the Caps Lock key smarter, so that when the key accidentally gets activated and you START YELLING even though you don't want to, you can just select the yelling-text and press the key again to instantly fix its case instead of typing everything all over again.
 - [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
 - [TeamViewer](https://www.teamviewer.com/en/) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
+- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
 - [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. ![Freeware][Freeware Icon]
-- [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
-- [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/wineskin/code/ci/master/tree/) ![Freeware][Freeware Icon]
+- [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 
 ### Video
 
